@@ -24,14 +24,13 @@ Hi! I'm Florian and I am senior Front Engineer. Early 2023, I became a new canad
 #### How do you prepare for meetings?
 
 * I use a slack outlook plugin to remind me that a (zoom) meeting is about to start in 30 minutes. 
-* Reread the agenda before the meeting.
-* I try to add items as I think of them during the week.  
+* Reread the agenda before the meeting.  
 
 #### How do you make async work happen in practice?
 
-* I try to be as transparent as possible about my daily TODOs and keep my calendar up to date so the people I'm working with can I have a clear vision of what I'm doing.
+* I try to be as transparent as possible about my daily TODOs and keep my calendar up to date so the people I'm working with can have a clear vision of what I'm doing.
 * Usually I try to address DMs in slack very quickly. It might still be a synchronous habit but it is still my way of working.
-* I try to document as much as possible my work on various supports: wiki, github, Jira ... the things I'm working on.
+* I try to document as much as possible my work on various supports: wiki, github, Jira ...
 * I also try to refuse meetings that are not useful to get my core tasks done. I can always catch up the zoom recording when I have extra time.   
 
 ### Tools
@@ -52,7 +51,7 @@ Hi! I'm Florian and I am senior Front Engineer. Early 2023, I became a new canad
 
 #### Do you have workflows that you are proud of and/or relying on constantly
 
-* I use git exclusively from command line, with a few fundamental aliases (`git br`, `git ba`, `git cm`, `git co`, `git st`, `git ru`).
+* I use git exclusively from command line, with a few aliases (`git br`, `git ba`, `git cm`, `git co`, `git st`, `git ru`).
 * I developed a NodeJS command line tool to easily open PRs with a predefined template with the option of adding a funny GIF to the PR.  
 
 #### What are the browser extensions that you cannot live without?

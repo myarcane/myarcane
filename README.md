@@ -47,7 +47,7 @@ Hi! I'm **Florian** and I am **senior Frontend Engineer**. Early **2023**, I bec
 
 #### Do you have workflows that you are proud of and/or relying on constantly
 
-* I use git exclusively from command line, with a few aliases (`git br`, `git ba`, `git cm`, `git co`, `git st`, `git ru`).
+* I use git exclusively from command line, with a few aliases:`git br`, `git ba`, `git cm`, `git co`, `git st`, `git ru`.
 * I developed a NodeJS command line tool to easily open PRs with a predefined template with the option of adding a funny GIF to the PR.  
 
 #### What are the browser extensions that you cannot live without?

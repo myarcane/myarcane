@@ -1,12 +1,10 @@
-### Hi there 👋
-
 # Florian's README
 
 ## About Me 👋
 
-Hi! I'm Florian and I am senior Front Engineer. Early 2023, I became a new canadian permanent resident 🇨🇦. Prior to that, I was based in the south of France 🇫🇷 and worked at [dailymotion](https://www.dailymotion.com/) for 8+ years as an individual contributor in the player craft.  
+Hi! I'm Florian and I am senior Front Engineer. Early **2023**, I became a new canadian permanent resident 🇨🇦. Before that, I was based in the south of France 🇫🇷 and worked at [dailymotion](https://www.dailymotion.com/) for 8+ years as an individual contributor in the player craft.  
 
-* I grew up in [Paris, France](https://www.google.com/maps/search/?api=1&query=48.884808,2.335369), lived 5 years in [Mallorca, Spain](https://www.google.com/maps/search/?api=1&query=39.567114,2.646143) when I was a teenager, for almost 10 years in [Antibes, France](https://www.google.com/maps/search/?maps/search/?api=1&query=39.567114,2.64614343.578053,7.123383) and now I settled down in [Toronto, Canada](https://www.google.com/maps/search/?maps/search/?api=1&query=43.648095,-79.396904).
+* I grew up in [Paris, France](https://www.google.com/maps/search/?api=1&query=48.884808,2.335369) and lived 5 years in [Mallorca, Spain](https://www.google.com/maps/search/?api=1&query=39.567114,2.646143) when I was a teenager. I also lived in [Antibes, France] the last 10 years (https://www.google.com/maps/search/?maps/search/?api=1&query=39.567114,2.64614343.578053,7.123383) and now I settled down in [Toronto, Canada](https://www.google.com/maps/search/?maps/search/?api=1&query=43.648095,-79.396904).
 * 🧗 Climber since 2015. Love this sport. I discovered so many beautiful outdoor places through it.
 * 🏂 When there is a good powder day, I also love to go snowboarding.
 * 📚 I love to read about philosophy, personal growth or training climbing books. 

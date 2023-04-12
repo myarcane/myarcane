@@ -14,7 +14,7 @@ Hi! I'm **Florian** and I am **senior Frontend Engineer**. Early **2023**, I bec
 
 * I first check my DMs in Slack, then my top-priority slack channels
 * I do a first pass at my emails: I first looked at the ones that explicitely mentions me and opens all the issues/PRs associated with them.
-* I then usually list all my TODOS for the day and share it my colleagues in a dedicated slack Daily Scrum channel.   
+* I then usually list all my TODOS for the day and share it with my colleagues in a dedicated slack Daily Scrum channel.   
 * I start working on the most important task on the list
 
 #### How do you prepare for meetings?

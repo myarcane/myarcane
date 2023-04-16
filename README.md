@@ -31,7 +31,7 @@ Hi! I'm **Florian** and I am **senior Frontend Engineer**. Early **2023**, I bec
 
 ### Tools
 
-#### What tools do you use to keep track of the stuff that cannot be in a Github issue (paper, TODO lists, apps, ...)
+#### What tools do you use to keep track of the stuff that cannot be in a Github issue (paper, TODO lists, apps, ...)?
 * I recently started using [any.do](https://www.any.do/) for my personal todos. I like it because it is simple. 
 * For my grocery list I use an app called [paprika](https://www.paprikaapp.com/) to store my favourite recipes and generate automatically grocery list based on the recipe I want to make. 
 
